@@ -6,8 +6,8 @@
     "title": "the Darkin Blade",
     "hp": 580,
     "mp": 0,
-    "attackdamage": 60,
     "armor": 38,
+    "attackdamage": 60,
     "spellblock": 32.1,
     "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Aatrox.png",
     "description": "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find..."
